@@ -30,35 +30,35 @@ export default function HauntedHouse() {
     const doorColorTexture = textureLoader.load("/Haunted-3d-house/textures/door/color.jpg");
     const doorAlphaTexture = textureLoader.load("/Haunted-3d-house/textures/door/alpha.jpg");
     const doorAmbientOcclusionTexture = textureLoader.load(
-      "/textures/door/ambientOcclusion.jpg"
+      "/Haunted-3d-house/textures/door/ambientOcclusion.jpg"
     );
     const doorHeightTexture = textureLoader.load("/Haunted-3d-house/textures/door/height.jpg");
     const doorNormalTexture = textureLoader.load("/Haunted-3d-house/textures/door/normal.jpg");
     const doorMetalnessTexture = textureLoader.load(
-      "/textures/door/metalness.jpg"
+      "/Haunted-3d-house/textures/door/metalness.jpg"
     );
     const doorRoughnessTexture = textureLoader.load(
-      "/textures/door/roughness.jpg"
+      "/Haunted-3d-house/textures/door/roughness.jpg"
     );
 
     const bricksColorTexture = textureLoader.load("/Haunted-3d-house/textures/bricks/color.jpg");
     const bricksAmbientOcclusionTexture = textureLoader.load(
-      "/textures/bricks/ambientOcclusion.jpg"
+      "/Haunted-3d-house/textures/bricks/ambientOcclusion.jpg"
     );
     const bricksNormalTexture = textureLoader.load(
-      "/textures/bricks/normal.jpg"
+      "/Haunted-3d-house/textures/bricks/normal.jpg"
     );
     const bricksRoughnessTexture = textureLoader.load(
-      "/textures/bricks/roughness.jpg"
+      "/Haunted-3d-house/textures/bricks/roughness.jpg"
     );
 
     const grassColorTexture = textureLoader.load("/Haunted-3d-house/textures/grass/color.jpg");
     const grassAmbientOcclusionTexture = textureLoader.load(
-      "/textures/grass/ambientOcclusion.jpg"
+      "/Haunted-3d-house/textures/grass/ambientOcclusion.jpg"
     );
     const grassNormalTexture = textureLoader.load("/Haunted-3d-house/textures/grass/normal.jpg");
     const grassRoughnessTexture = textureLoader.load(
-      "/textures/grass/roughness.jpg"
+      "/Haunted-3d-house/textures/grass/roughness.jpg"
     );
 
     grassColorTexture.repeat.set(18, 18);
