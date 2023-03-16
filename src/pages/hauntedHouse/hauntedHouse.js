@@ -41,7 +41,7 @@ export default function HauntedHouse() {
       "/textures/door/roughness.jpg"
     );
 
-    const bricksColorTexture = textureLoader.load("Haunted-3d-house/textures/bricks/color.jpg");
+    const bricksColorTexture = textureLoader.load("/Haunted-3d-house/textures/bricks/color.jpg");
     const bricksAmbientOcclusionTexture = textureLoader.load(
       "/textures/bricks/ambientOcclusion.jpg"
     );
