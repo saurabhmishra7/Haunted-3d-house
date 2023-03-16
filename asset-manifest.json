@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Haunted-3d-house/static/css/main.e6c13ad2.css",
-    "main.js": "/Haunted-3d-house/static/js/main.b6473bdd.js",
+    "main.js": "/Haunted-3d-house/static/js/main.148b25a7.js",
     "static/js/787.28cb0dcd.chunk.js": "/Haunted-3d-house/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Haunted-3d-house/index.html",
     "main.e6c13ad2.css.map": "/Haunted-3d-house/static/css/main.e6c13ad2.css.map",
-    "main.b6473bdd.js.map": "/Haunted-3d-house/static/js/main.b6473bdd.js.map",
+    "main.148b25a7.js.map": "/Haunted-3d-house/static/js/main.148b25a7.js.map",
     "787.28cb0dcd.chunk.js.map": "/Haunted-3d-house/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b6473bdd.js"
+    "static/js/main.148b25a7.js"
   ]
 }
